@@ -1,5 +1,6 @@
-public class SimpleCalculatorApp {
-	static Scanner scanner = new Scanner(System.in);
+package com.mindtree.App;
+public class Display {
+	
 	public static void displayinfo(String[] args) {
   System.out.println(" info");
   }
