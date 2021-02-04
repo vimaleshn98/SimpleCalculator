@@ -20,7 +20,7 @@ public class SimpleCalculatorApp {
 				System.out.println("Subtraction of number" + (10-5));
 				break;
 			case 3:
-				
+				System.out.println("Multiplication of number" + (10*5));
 				break;
 			default:
 				System.out.println("-----------------Existing Main Menu-------------------");
