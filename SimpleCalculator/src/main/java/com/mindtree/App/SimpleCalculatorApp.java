@@ -17,7 +17,7 @@ public class SimpleCalculatorApp {
 				System.out.println("Addition of number" + (2+5));
 				break;
 			case 2:
-				
+				System.out.println("Subtraction of number" + (10-5));
 				break;
 			case 3:
 				
